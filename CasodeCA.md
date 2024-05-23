@@ -2,7 +2,7 @@ Nombre: Jimmy Ayala                                                Fecha: 20 de
 
 Paralelo B
 
-**Caso de Ciberataque Shamoon**
+ #                             Caso de Ciberataque Shamoon
 
 Alrededor del año 2012 ocurrió un incidente, donde se utilizó un malware de borrado de datos  
 (un tipo de software malicioso con fines de borrar información sensible), en contra de una  
